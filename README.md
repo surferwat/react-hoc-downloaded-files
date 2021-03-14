@@ -10,7 +10,13 @@ Step 1: Clone the repo
 git clone https://github.com/surferwat/react-hoc-downloaded-files.git
 ```
 
-Step 2: Install the module
+Step 2: Install the dependecies
+
+```
+npm install
+```
+
+Step 3: Go to app folder and install the module
 
 ```
 npm install /file/path/to/module
