@@ -1,0 +1,20 @@
+{
+  "name": "react-hoc-downloaded-files",
+  "version": "1.0.0",
+  "description": "higher order component for file download from cloud",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surferwat",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.33",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
