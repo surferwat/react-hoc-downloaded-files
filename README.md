@@ -13,6 +13,7 @@ git clone https://github.com/surferwat/react-hoc-downloaded-files.git
 Step 2: Install the dependecies
 
 ```
+cd <package_name>
 npm install
 ```
 
@@ -105,7 +106,7 @@ export default ReviewForm
 
 ## References
 
-* [React Typescript Cheatsheet Full Example](https://react-typescript-cheatsheet.netlify.app/docs/hoc/full_example/)
+* [React Typescript Cheatsheet Full HOC Example](https://react-typescript-cheatsheet.netlify.app/docs/hoc/full_example/)
 
 
 
